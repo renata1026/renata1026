@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @renata1026
-- 👀 I’m interested in coding, yoga, ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding, yoga, and Italian food.
+- 🌱 I’m currently enrolled in the front end development bootcamp at Juno College. 
 - 📫 How to reach me rcreinartz@gmail.com
 
 <!---
