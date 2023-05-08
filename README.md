@@ -10,13 +10,13 @@ The majority of my career has been spent in accounting including creating budget
 Some facts about me:
 
 * 🌍 I'm based in Calgary
-* ✉️  You can contact me at [renata.codes.dev@gmail.com](mailto:renata.codes.dev@gmail.com)
+* ✉️  You can contact me at [renata.techie@gmail.com](mailto:renata.codes.dev@gmail.com)
 * 🤝 I'm open to collaborating on interesting projects
 * 🥰 Interesting fact: I have traveled ✈️ around the world and have many stories to share.
 
 📱 Get in touch with me: if you want to discuss transitions in careers, women in technology, yoga, travel etc.
 
-📨 Get a hold of me: renatacodes.dev@gmail.com, or [LinkedIn](https://www.linkedin.com/in/renata1026/)
+📨 Get a hold of me: renata.techie@gmail.com, or [LinkedIn](https://www.linkedin.com/in/renata1026/)
 
 Currently, my tech stack includes:
 
