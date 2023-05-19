@@ -3,14 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [Portfolio](https://www.renata-reinartz.com/) • [LinkedIn](https://www.linkedin.com/in/renata1026/) 
 
-I'm a Calgary-based Frontend Web Developer and am attending Juno College of Technology's immersive bootcamp and love learning about ways to 💻 code and solve problems in creative ways.
+I'm a Calgary-based Frontend Web Developer and graduate of Juno College of Technology's immersive bootcamp and love learning about ways to 💻 code and solve problems in creative ways.
 
 The majority of my career has been spent in accounting including creating budgets and multicurrency forecasts for multinational companies. As a Chartered Professional Accountant (CPA), I am skilled at problem-solving. In other words, I am capable of coming up with solutions when problems arise. In my free time, I enjoy practicing yoga 🧘‍♀️ as a certified yoga teacher. 
 
 Some facts about me:
 
 * 🌍 I'm based in Calgary
-* ✉️  You can contact me at [renata.techie@gmail.com](mailto:renata.codes.dev@gmail.com)
+* ✉️  You can contact me at [renata.techie@gmail.com](mailto:renata.techie@gmail.com)
 * 🤝 I'm open to collaborating on interesting projects
 * 🥰 Interesting fact: I have traveled ✈️ around the world and have many stories to share.
 
