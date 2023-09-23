@@ -16,7 +16,7 @@ Some facts about me:
 
 📱 Get in touch with me: if you want to discuss transitions in careers, women in technology, yoga, travel etc.
 
-📨 Get a hold of me: renata.techie@gmail.com, or [LinkedIn](https://www.linkedin.com/in/renata1026/)
+📨 Get a hold of me: rcreinartz@gmail.com, or [LinkedIn](https://www.linkedin.com/in/renata1026/)
 
 Currently, my tech stack includes:
 
