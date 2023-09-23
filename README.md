@@ -10,7 +10,7 @@ The majority of my career has been spent in accounting including creating budget
 Some facts about me:
 
 * 🌍 I'm based in Calgary
-* ✉️  You can contact me at [renata.techie@gmail.com](mailto:renata.techie@gmail.com)
+* ✉️  You can contact me at [rcreinartz@gmail.com](mailto:rcreinartz@gmail.com)
 * 🤝 I'm open to collaborating on interesting projects
 * 🥰 Interesting fact: I have traveled ✈️ around the world and have many stories to share.
 
