@@ -20,7 +20,7 @@ Some facts about me:
 
 Currently, my tech stack includes:
 
-HTML5, CSS, JavaScript, React, and firebase
+HTML5, CSS, JavaScript, React, Firebase, Express, and Prisma. 
 
 I am looking forward to adding to my tech list over time 🌸!
 
